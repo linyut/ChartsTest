@@ -1,0 +1,19 @@
+//
+//  ChartsTest.pch
+//  ChartsTest
+//
+//  Created by 方寸山 on 2017/11/3.
+//  Copyright © 2017年 LINYUT. All rights reserved.
+//
+
+#ifndef ChartsTest_pch
+#define ChartsTest_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "BaseViewController.h"
+#import "const.h"
+
+#endif /* ChartsTest_pch */
